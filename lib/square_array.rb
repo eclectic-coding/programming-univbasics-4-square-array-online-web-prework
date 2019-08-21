@@ -1,8 +1,10 @@
 def square_array(array)
   counter = 0
+  new_array = []
+  
   while counter do
   new_array <<
   
-  return new_array
+end
   
 end
